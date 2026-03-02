@@ -49,6 +49,9 @@ def analiza_statistica(nume_fisier):
 
     print("Litere:    " + " | ".join(linie_litere))
     print("Frecvențe: " + " | ".join(map(str, linie_frecvente)))
+    
+    print("Litere:    " + " | ".join(linie_litere))
+    print("Frecvențe: " + " | ".join(map(str, linie_frecvente)))
 
 
 
